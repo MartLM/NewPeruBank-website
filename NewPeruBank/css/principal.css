@@ -1,0 +1,130 @@
+main {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+td{
+    text-align: center;
+    height: 50px;
+}
+
+.td-deposito{
+    color: #5e78f0;
+}
+
+.td-retiro{
+    color: #FD60A4;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border-spacing: 0px;
+}
+
+.main-container {
+    /* background-color: blueviolet; */
+    max-height: 800px;
+    min-height: 650px;
+    max-width: 1300px;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-main-menu {
+    height: 100%;
+    width: 45%;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-menu-container{
+    /* background-color: chartreuse; */
+    width: 400px;
+    height: 90%;
+}
+
+.div-tarjeta {
+    width: 400px;
+    height: 240px;
+    background-image: url("../images/Tarjeta-principal.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.num-tarjeta{
+    margin: 0px 50px 0px 50px;
+}
+
+.name-cliente{
+    text-align: right;
+    margin: 0px 50px 10% 50px ;
+}
+
+.p-name-cliente{
+    margin: 0;
+}
+
+.div-main-mov {
+    height: 100%;
+    width: 45%;
+   /* background-color: cadetblue; */
+}
+
+.btn{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #27216B;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.close-session{
+    background-image: url(../images/Logo-cerrar-sesion.svg);
+}
+
+.withdraw{
+    background-image: url(../images/Logo-retiro.svg); 
+}
+
+.deposit{
+    background-image: url(../images/Logo-deposito.svg); 
+}
+
+.span-options{
+    font-size: 14px;
+}
+
+.div-options{
+    display: flex;
+    justify-content: space-around;
+}
+
+.div-main-mov{
+    display: flex;
+    justify-content: center;
+}
+
+.div-container-table{
+    width: 90%;
+}
+
+.c1{
+    background-color: #161045;
+}
+
+.c2{
+    background-color: #221a64;
+}  

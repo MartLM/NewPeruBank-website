@@ -1,0 +1,35 @@
+<svg width="91" height="59" viewBox="0 0 91 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="2.5" cy="8.5" r="2.5" fill="#869DDA"/>
+<circle cx="68" cy="14" r="6" fill="#182146"/>
+<path d="M67 14C67 17.3137 64.3137 20 61 20C57.6863 20 55 17.3137 55 14C55 10.6863 57.6863 8 61 8C64.3137 8 67 10.6863 67 14Z" fill="#2E3E85"/>
+<mask id="mask0_112_410" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="62" y="8" width="12" height="12">
+<circle cx="68" cy="14" r="6" fill="#182146"/>
+</mask>
+<g mask="url(#mask0_112_410)">
+<circle cx="61" cy="14" r="6" fill="#101731"/>
+</g>
+<circle cx="83.5" cy="18.5" r="2.5" fill="#FD60A4"/>
+<circle cx="87.5" cy="27.5" r="3.5" fill="#869DDA"/>
+<circle cx="6.5" cy="52.5" r="4.5" fill="#FD60A4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 5C6 2.23858 8.23858 0 11 0H75C77.7614 0 80 2.23858 80 5V43C80 45.7614 77.7614 48 75 48H11C8.23858 48 6 45.7614 6 43V5ZM14 11H27V21H14V11ZM15.5 37H24.5C25.3284 37 26 36.3284 26 35.5C26 34.6716 25.3284 34 24.5 34H15.5C14.6716 34 14 34.6716 14 35.5C14 36.3284 14.6716 37 15.5 37ZM40.5 37H31.5C30.6716 37 30 36.3284 30 35.5C30 34.6716 30.6716 34 31.5 34H40.5C41.3284 34 42 34.6716 42 35.5C42 36.3284 41.3284 37 40.5 37ZM46.5 37H55.5C56.3284 37 57 36.3284 57 35.5C57 34.6716 56.3284 34 55.5 34H46.5C45.6716 34 45 34.6716 45 35.5C45 36.3284 45.6716 37 46.5 37Z" fill="url(#paint0_linear_112_410)"/>
+<circle cx="68" cy="14" r="6" fill="#182146"/>
+<path d="M67 14C67 17.3137 64.3137 20 61 20C57.6863 20 55 17.3137 55 14C55 10.6863 57.6863 8 61 8C64.3137 8 67 10.6863 67 14Z" fill="#2E3E85"/>
+<mask id="mask1_112_410" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="62" y="8" width="12" height="12">
+<circle cx="68" cy="14" r="6" fill="#182146"/>
+</mask>
+<g mask="url(#mask1_112_410)">
+<circle cx="61" cy="14" r="6" fill="#101731"/>
+</g>
+<circle cx="71" cy="45" r="14" fill="url(#paint1_linear_112_410)"/>
+<path d="M70 46H66C65.4477 46 65 45.5523 65 45C65 44.4477 65.4477 44 66 44H70V40C70 39.4477 70.4477 39 71 39C71.5523 39 72 39.4477 72 40V44H76C76.5523 44 77 44.4477 77 45C77 45.5523 76.5523 46 76 46H72V50C72 50.5523 71.5523 51 71 51C70.4477 51 70 50.5523 70 50V46Z" fill="black"/>
+<defs>
+<linearGradient id="paint0_linear_112_410" x1="43" y1="0" x2="43" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4362E8"/>
+<stop offset="1" stop-color="#7E97FE"/>
+</linearGradient>
+<linearGradient id="paint1_linear_112_410" x1="71" y1="31" x2="71" y2="59" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4362E9"/>
+<stop offset="1" stop-color="#7C95FD"/>
+</linearGradient>
+</defs>
+</svg>
